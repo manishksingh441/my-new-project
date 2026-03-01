@@ -31,3 +31,20 @@ print(copy_list1)
 grade = ["Grade A", "Grade B", "Grade A", "Grade D", "Grade A", "Grade C"]
 grade.sort()
 print(grade)
+
+
+# def new_func():
+#     dict = {
+#     "name": "Manish",
+#     "age": 30,
+#     "is_student": True,
+#     "cgpa":7.8,
+#     "topics" : ("Python", "Java", "C++"),
+#     "learning" : ["Python", "Java", "C++"],
+#     "city": "Benagaluru"
+# }
+#     print(dict)
+
+# new_func()
+
+
